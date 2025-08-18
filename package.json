@@ -2,7 +2,7 @@
 	"name": "flux",
 	"version": "1.0.0",
 	"scripts": {
-		"watch": "chokidar . -i \"node_modules\" -i \"dist\" -c \"darklua process src/init.lua dist/main.lua\""
+		"watch": "chokidar . -i \"node_modules\" -i \"dist\" -i \".git\" -c \"darklua process src/init.lua dist/main.lua -c darklua.config.json\""
 	},
 	"keywords": [],
 	"author": "",
