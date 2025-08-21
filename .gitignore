@@ -1,4 +1,5 @@
 node_modules
-*.json
+darklua.config.json
+package-lock.json
 src
 dist
