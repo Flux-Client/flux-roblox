@@ -3,40 +3,38 @@
 		"name": "Product Sans",
 		"faces": [
 			{
-				"name": "Medium",
 				"weight": 500,
 				"style": "normal"
 			},
 			{
-				"name": "Semibold",
 				"weight": 600,
 				"style": "normal"
 			}
-		]
+		],
+		"type": "ttf"
 	},
     {
 		"name": "Proxima Nova",
 		"faces": [
 			{
-				"name": "Medium",
 				"weight": 500,
 				"style": "normal"
 			},
 			{
-				"name": "Semibold",
 				"weight": 600,
 				"style": "normal"
 			}
-		]
+		],
+		"type": "otf"
 	},
     {
 		"name": "Minecraft",
 		"faces": [
 			{
-				"name": "Regular",
 				"weight": 400,
 				"style": "normal"
 			}
-		]
+		],
+		"type": "ttf"
 	}
 ]
