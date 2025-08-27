@@ -3,3 +3,5 @@ darklua.config.json
 package-lock.json
 src
 dist
+key.txt
+bot
