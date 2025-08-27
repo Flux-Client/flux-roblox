@@ -2,7 +2,8 @@
 	"name": "flux",
 	"version": "1.0.0",
 	"scripts": {
-		"watch": "npm run process && chokidar ./src -c \"npm run process\"",
+		"watch": "concurrently \"npm run test\" \"node bot\"",
+		"test": "npm run process && chokidar ./src -c \"npm run process\"",
 		"process": "darklua process src/init.lua dist/main.lua -c darklua.config.json"
 	},
 	"keywords": [],
@@ -11,6 +12,6 @@
 	"description": "",
 	"dependencies": {
 		"chokidar": "^4.0.3",
-		"concurrently": "^9.2.0"
+		"concurrently": "^9.2.1"
 	}
 }
