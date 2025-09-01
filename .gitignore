@@ -1,8 +1,9 @@
-node_modules
-darklua.config.json
-package-lock.json
 src
+bot
 dist
 key.txt
-bot
+node_modules
 package.json
+fonts/families
+package-lock.json
+darklua.config.json
