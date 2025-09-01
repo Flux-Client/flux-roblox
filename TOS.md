@@ -15,7 +15,7 @@ You may not modify, reverse engineer, distribute, or misuse the Service in any w
 Suspicious HWID change will get you terminated from the Service.
 
 ## 4. Termination
-We may terminate, or blacklist your access to the Service at any time with or without notice.
+We may terminate, or blacklist your access to the Service at any time with or without notice, if you violate the Terms.
 
 ## 5. Disclaimer of Warranties
 The Service is provided "as is" and "as available," without warranties of any kind, express or implied. We do not guarantee that the Service will function error-free on all Roblox executors or systems.
