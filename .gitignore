@@ -1,9 +1,11 @@
 src
 bot
 dist
+.idea
 key.txt
 node_modules
 package.json
 fonts/families
 package-lock.json
 darklua.config.json
+assets/fonts/families
