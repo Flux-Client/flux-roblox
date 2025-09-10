@@ -1,6 +1,5 @@
 # Privacy Policy
 ### Effective Date: September 1st 2025
-### Last Update: September 1st 2025
 
 ## 1. Introduction
 Welcome to Flux Client (“we,” “us,” or “our”). This Privacy Policy outlines the collection, usage of your information through your use of the Service. By using Flux Client, you agree to the terms outlined in this policy.
